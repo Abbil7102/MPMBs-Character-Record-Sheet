@@ -56,23 +56,23 @@ BackgroundList["apprentice alchemist"] = {
 		"I am always trying to learn new recipes, formulas, or techniques by reading or watching others work."
 	],
 	ideal : [
-		["Service",
-			"Service: Helping others is the most important thing in the world. (Good)"
+		["Life",
+			"Life. Harvested meat will feed the hungry, harvested furs will warm the cold. Through death, comes life. (Good)"
 		],
-		["Power",
-			"Power: Knowledge is the key to power and authority. (Evil)"
+		["Honor",
+			"Honor. I refuse to use something harvested from a creature that I did not kill with my own hands. (Lawful)"
 		],
-		["Logic",
-			"Logic: There is a systematic way to do and understand everything. (Lawful)"
+		["Necessity",
+			"Necessity. Creatures kill and harvest other creatures to survive. You may not like it, but it's just the way things are. (Neutral)"
 		],
-		["Discovery",
-			"Discovery: There are new magics awaiting discovery. (Chaotic)"
+		["Opportunity",
+			"Opportunity. If something is already dead, what's the point of letting its corpse go to waste? (Chaotic)"
 		],
-		["Knowledge",
-			"Knowledge: Understanding the world and its mysteries is its own reward. (Neutral)"
+		["Dominance",
+			"Dominance. Nothing shows off your strength like having your own Owlbear-head trophy. (Evil)"
 		],
-		["Self-Improvement",
-			"Self-Improvement: Bettering yourself is essntial in life."
+		["Money",
+			"Money. People always want hides, pelts, and skins; I may as well be the one to profit off it. (Any)"
 		]
 	],
 	bond : [
